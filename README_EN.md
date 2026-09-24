@@ -65,7 +65,6 @@ The research group compared this dataset's assessment results with results corre
 | Coefficient of variation (CV) | 0.557 for the technical specification's results; 0.480 for this method |
 | Relative reduction in assessment uncertainty | 13.8% |
 
-These metrics correspond to the comparison design and statistical conditions in the research group's assessment report. R² describes the goodness of fit between assessment results.
 
 ## Spatial distribution
 
