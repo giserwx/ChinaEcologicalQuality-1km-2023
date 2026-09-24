@@ -89,4 +89,4 @@ python scripts/read_geotiff.py /path/to/China_Ecological_Quality_Index_2023_1km.
 | 联系人 | 邮箱 |
 | --- | --- |
 | 课题负责人：Dr. Zhuowei Hu（胡卓玮） | [huzhuowei@cnu.edu.cn](mailto:huzhuowei@cnu.edu.cn) |
-| 技术联系人：胡腾讯（Tengxun Hu） | [2240902112@cnu.edu.cn](mailto:2240902112@cnu.edu.cn) |
+| 技术联系人：胡腾讯（Tengxun Hu） | [H_tengxun@163.com](mailto:H_tengxun@163.com) |
