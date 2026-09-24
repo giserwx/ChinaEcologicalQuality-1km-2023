@@ -1,0 +1,59 @@
+{
+  "bytes": 33685674,
+  "sha256": "6aaf120cddf54edd9ebec09a4e1b1c3a1f52a497ce353f2958feb6b69bebe3ff",
+  "wkt": "PROJCS[\"Albers_Conic_Equal_Area\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"latitude_of_center\",0],PARAMETER[\"longitude_of_center\",105],PARAMETER[\"standard_parallel_1\",25],PARAMETER[\"standard_parallel_2\",47],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "crs": "PROJCS[\"Albers_Conic_Equal_Area\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"latitude_of_center\",0],PARAMETER[\"longitude_of_center\",105],PARAMETER[\"standard_parallel_1\",25],PARAMETER[\"standard_parallel_2\",47],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "width": 4833,
+  "height": 5515,
+  "count": 1,
+  "dtype": "float32",
+  "nodata": -9999.0,
+  "resolution": [
+    1000.0,
+    1000.0
+  ],
+  "bounds": [
+    -2625769.3867456666,
+    406485.81819779053,
+    2207230.6132543334,
+    5921485.8181977905
+  ],
+  "transform": [
+    1000.0,
+    0.0,
+    -2625769.3867456666,
+    0.0,
+    -1000.0,
+    5921485.8181977905,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "compression": "Compression.lzw",
+  "tags": {
+    "AREA_OR_POINT": "Area",
+    "TIFFTAG_SOFTWARE": "GDAL 3.8.1e (3080114) (4.6.0;1710;3.0.1;2.1.6;;0x10302;5.4.5;), PROJ 9.3.1 (EPSG.VERSION=v10.098;EPSG.DATE=2023-11-24;ESRI.VERSION=ArcGIS Pro 3.2;ESRI.DATE=2023-11-02;PROJ_DATA.VERSION=1.16;)"
+  },
+  "units": [
+    null
+  ],
+  "valid_cells": 9376796,
+  "minimum": 0.0,
+  "maximum": 1.0,
+  "zero_cells": 1727972,
+  "mask_nodata_conflicts": 0,
+  "nonfinite_masked_valid": 0,
+  "filename": "China_Ecological_Quality_Index_2023_1km.tif",
+  "year": 2023,
+  "version": "v1.0.0",
+  "format": "GeoTIFF",
+  "variable": "Ecological quality index (NSEQI)",
+  "unit": "dimensionless",
+  "institution": "Capital Normal University",
+  "validity_rule": "band mask > 0 AND value != -9999 AND value is finite",
+  "technical_contact": {
+    "name_zh": "胡腾讯",
+    "name_en": "Tengxun Hu",
+    "email": "2240902112@cnu.edu.cn"
+  }
+}
