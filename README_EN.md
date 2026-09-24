@@ -62,8 +62,8 @@ The research group compared this dataset's assessment results with results corre
 | --- | --- |
 | Fit to the technical specification's assessment results | R² = 0.8014 |
 | Fit of the comparison study's dataset to the technical specification's assessment results | R² = 0.7046 |
-| Coefficient of variation (CV) | 0.557 for the technical specification's results; 0.480 for this method |
-| Relative reduction in assessment uncertainty | 13.8% |
+| Coefficient of variation (CV) | 0.565 for the technical specification's results; 0.480 for this method |
+| Relative reduction in assessment uncertainty | 15% |
 
 
 ## Spatial distribution
