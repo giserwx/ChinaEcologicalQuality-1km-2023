@@ -89,4 +89,4 @@ We make our data products available to the research community as we believe that
 | Contact | Email |
 | --- | --- |
 | Task lead: Dr. Zhuowei Hu (胡卓玮) | [huzhuowei@cnu.edu.cn](mailto:huzhuowei@cnu.edu.cn) |
-| Technical contact: Tengxun Hu (胡腾讯) | [2240902112@cnu.edu.cn](mailto:2240902112@cnu.edu.cn) |
+| Technical contact: Tengxun Hu (胡腾讯) | [H_tengxun@163.com](mailto:H_tengxun@163.com) |
